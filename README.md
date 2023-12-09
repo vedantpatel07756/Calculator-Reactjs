@@ -1,4 +1,4 @@
-Certainly! A good README file helps others understand and use your project. Here's a simple README template for your React.js calculator:
+
 
 # Simple Calculator App in React.js
 
@@ -12,7 +12,7 @@ A basic calculator application built using React.js.
 
 ## Demo
 
-Include a link to a live demo if applicable.
+Live Link : https://657411cf62d115312b6a7ff7--marvelous-puppy-5901d4.netlify.app/
 
 ## Screenshots
 
