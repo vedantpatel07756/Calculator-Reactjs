@@ -16,7 +16,8 @@ Live Link : https://657411cf62d115312b6a7ff7--marvelous-puppy-5901d4.netlify.app
 
 ## Screenshots
 
-Include screenshots of your calculator in action.
+![image](https://github.com/vedantpatel07756/Calculator-Reactjs/assets/82470482/0f0a3ada-1462-4378-bf99-70abf8c31e35)
+
 
 ## Getting Started
 
